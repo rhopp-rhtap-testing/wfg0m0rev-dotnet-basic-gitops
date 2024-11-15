@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: wfg0m0rev-dotnet-basic-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/wfg0m0rev-dotnet-basic
